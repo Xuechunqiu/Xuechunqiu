@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi there 👋, I'm Xuechun
 
+[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README.md)
+![Followers](https://img.shields.io/github/followers/Xuechunqiu?label=Follw&style=social)
+[![HitCount](http://hits.dwyl.com/Xuechunqiu/Xuechunqiu.svg)](http://hits.dwyl.com/yili1992/yili1992)
+
+☝️   To Switch Language
 <!--
 **Xuechunqiu/Xuechunqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+**Talking about Personal Stuffs:**
+- 🌱 I’m currently learning React
+- 💬 I'm happy to communicate!
+- 📫 How to reach me: noglues666@gmail.com
+- ⚡ Fun fact: Anything is possible
+
+<br />
+<br />
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff"></code>
+<code><img height="20" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code"></code>
+
+
+![Victor's github stats](https://github-readme-stats.vercel.app/api?username=Xuechunqiu&show_icons=true&hide_border=true)
+
+
+⭐️ From [Xuechun](https://github.com/Xuechunqiu)

@@ -1,13 +1,9 @@
 ### Hi there 👋, I'm Xuechun
 
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README.md)
 ![Followers](https://img.shields.io/github/followers/Xuechunqiu?label=Follw&style=social)
-[![HitCount](http://hits.dwyl.com/Xuechunqiu/Xuechunqiu.svg)](http://hits.dwyl.com/yili1992/yili1992)
+[![HitCount](http://hits.dwyl.com/Xuechunqiu/Xuechunqiu.svg)](http://hits.dwyl.com/Xuechunqiu/Xuechunqiu)
 
 ☝️   To Switch Language
-<!--
-**Xuechunqiu/Xuechunqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 **Talking about Personal Stuffs:**
 - 🌱 I’m currently learning React

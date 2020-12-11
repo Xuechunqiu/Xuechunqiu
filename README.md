@@ -1,14 +1,12 @@
 ### Hi there 👋, I'm Estelle
 
 ![Followers](https://img.shields.io/github/followers/Xuechunqiu?label=Follw&style=social)
-[![HitCount](http://hits.dwyl.com/Xuechunqiu/Xuechunqiu.svg)](http://hits.dwyl.com/Xuechunqiu/Xuechunqiu)
 
 **Talking about Personal Stuffs:**
 - ⚡ Fun fact: Anything is possible
 
 <br />
 <br />
-
 
 **Languages and Tools:**  
 
@@ -24,4 +22,4 @@
 ![Victor's github stats](https://github-readme-stats.vercel.app/api?username=Xuechunqiu&show_icons=true&hide_border=true)
 
 
-⭐️ From [Estelle](https://github.com/Xuechunqiu)
+From [Estelle](https://github.com/Xuechunqiu) ⭐️ 

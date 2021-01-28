@@ -6,7 +6,6 @@
 - ⚡ Fun fact: Anything is possible
 
 <br />
-<br />
 
 **Languages and Tools:**  
 
@@ -19,7 +18,9 @@
 <code><img height="20" src="https://img.shields.io/pypi/djversions/djangorestframework"></code>
 
 
-![Victor's github stats](https://github-readme-stats.vercel.app/api?username=Xuechunqiu&show_icons=true&hide_border=true)
+![Estelle's github stats](https://github-readme-stats.vercel.app/api?username=Xuechunqiu&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xuechunqiu&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Estelle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Estelle)](https://github.com/anuraghazra/github-readme-stats)
 
 
 From [Estelle](https://github.com/Xuechunqiu) ⭐️ 

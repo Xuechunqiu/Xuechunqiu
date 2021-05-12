@@ -19,11 +19,13 @@
 
 
 <br />
-![Estelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuechunqiu&show_icons=true)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xuechunqiu&layout=compact)
-<br />
-[![Estelle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Estelle)](https://github.com/anuraghazra/github-readme-stats)
 
+![Estelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuechunqiu&show_icons=true)
+
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xuechunqiu&layout=compact)
+
+<br />
 
 From [Estelle](https://github.com/Xuechunqiu) ⭐️ 

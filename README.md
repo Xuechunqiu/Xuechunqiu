@@ -18,7 +18,6 @@
 <code><img height="20" src="https://img.shields.io/pypi/djversions/djangorestframework"></code>
 
 
-![Estelle's github stats](https://github-readme-stats.vercel.app/api?username=Xuechunqiu&show_icons=true&theme=radical)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xuechunqiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />

@@ -23,6 +23,7 @@
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xuechunqiu&layout=compact)
 <br />
+[![Estelle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Estelle)](https://github.com/anuraghazra/github-readme-stats)
 
 
 From [Estelle](https://github.com/Xuechunqiu) ⭐️ 
